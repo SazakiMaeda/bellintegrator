@@ -20,6 +20,7 @@ public class BasketServiceImpl implements Basket {
 
     private final BasketRepository basketRepository;
 
+    @Override
     public ResponseEntity<List<Item>> getProducts() {
         if (basketRepository.findAll().isEmpty()) {
             throw new BasketIsEmptyException();
