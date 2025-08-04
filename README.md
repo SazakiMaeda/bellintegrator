@@ -27,4 +27,4 @@
 
 ## **Автор:** Коновалов Антон  
 [![Email](https://img.shields.io/badge/Email-sazakimaedaa%40gmail.com-blue?style=flat&logo=gmail)](mailto:sazakimaedaa@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-%40SazakiMaeda-blue?style=flat&logo=telegram)](https://t.me/sazakimaedaa)  
+[![Telegram](https://img.shields.io/badge/Telegram-%40SazakiMaeda-blue?style=flat&logo=telegram)](https://t.me/sazakimaeda)  
